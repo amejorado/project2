@@ -9,6 +9,7 @@ package project2;
  * @author antoniojaviermejorado
  */
 public class Project2 {
+    private int algo;
 
     /**
      * @param args the command line arguments
